@@ -371,3 +371,11 @@ npm install -D parcel typescript
 - Usa literales en lugar de strings sueltos  
 - Organiza tipos en carpetas separadas  
 
+---
+
+
+| **Información** |  |
+| --- | --- |
+| **Autor:** | Nauel Gómez @ KeepCoding |
+| **Curso:** | Full Stack Web Bootcamp XIX - Frontend Pro |
+| **Fecha:** | Diciembre 2025 |

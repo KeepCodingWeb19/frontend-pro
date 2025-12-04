@@ -5,7 +5,8 @@
     <img src="https://keepcoding.io/wp-content/uploads/2024/11/Logo-kc237.svg" alt="KeepCoding Web Bootcamp XV - Frontend PRO">
 </div>
 
-Guía rápida de SCSS (Sass) para el módulo de Frontend Pro del Bootcamp de Web de KeepCoding. 
+
+Guía rápida de SCSS (Sass) para el módulo de Frontend Pro del Bootcamp de Web de KeepCoding.
 
 ---
 
@@ -300,3 +301,9 @@ Ejemplo de `main.scss`:
 - Mantén una arquitectura clara y escalable.  
 
 ---
+
+| **Información** |  |
+| --- | --- |
+| **Autor:** | Nauel Gómez @ KeepCoding |
+| **Curso:** | Full Stack Web Bootcamp XIX - Frontend Pro |
+| **Fecha:** | Diciembre 2025 |
